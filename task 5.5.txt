@@ -1,0 +1,5 @@
+The four basic elements of counter-controlled are:
+1. It requires a control variable.
+2. The initial value of the control variable.
+3. The increment by which the control variable is modified each time through the loop(also know as each iteration of the loop).
+4. The loop continuation condition that determines whether looping should continue.

@@ -1,0 +1,4 @@
+A. The increment suppose to be ++ to +.
+B. Switch cases do not perform conditional statements 
+c. There is no condition number statement to tell it to print odd numbers it will only print number 19.
+D. It prints odd numbers

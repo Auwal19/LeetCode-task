@@ -1,0 +1,12 @@
+for loop iteration:
+for (initialization; loopContinuationCondition; increment){
+   Statements
+}
+
+while loop iteration:
+
+initialization;
+while (loopContinuationCondition) {
+   statements
+   increment;
+}

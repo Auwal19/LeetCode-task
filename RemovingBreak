@@ -1,0 +1,17 @@
+instead of doing this
+while (true) {
+
+    if (number == 5) {
+        break;
+    }
+
+    System.out.println(number);
+    number++;
+}
+
+use this one so the loops stops naturally when the condtion becomes falsew
+while (number != 5) {
+
+    System.out.println(number);
+    number++;
+}

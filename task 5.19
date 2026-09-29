@@ -1,0 +1,7 @@
+A. System.out.println(i == 2); output: true
+B. Syystem.out.println(j == 5 ); otput: false
+C. System.out.println((i >= 0 ) && (j <= 3)); output: true
+D. System.out.println((m <= 100) & (k <= m)); output: true
+E. System.out.println((j >= i) || (k != m)); output: true
+F. Sysetm.out.println)(k + 1 < j) | (4 - j >= k))otuput: false
+G. System.out.println(!(k > j)); putputntrue

@@ -1,0 +1,2 @@
+1. It is suppose to rum the other for loop two times
+2. It is suppose to run the inner for loop 4 times and print '*' four times, '#' 4times

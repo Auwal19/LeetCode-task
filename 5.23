@@ -1,0 +1,11 @@
+A. !(x < 5) && !(y >= 7)
+equivalent: x>= 5 && y < 7
+
+B. !(a == b) || !( g != 5)
+equivalent: a != b || g == 5
+
+C. !((x <= 8) && (y > 4))
+equivalent: x > 8 || y <= 4
+
+D. !((i > 4) || (j <= 6))
+equivalent i <= 4 && j > 6

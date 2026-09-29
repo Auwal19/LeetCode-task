@@ -1,0 +1,5 @@
+break statement:
+The break statement, when executed in a while, for, do...while or switch, causes immediate exit from that statement
+
+continue Statement:
+The continue statement, when executed in a while, for or do..while, skips the loop's remaining body statement and proceeds with its next iteration. In a while and do...while statements, the program evaluates the loop-continuation test immediately. In a for statement, the increment expression executes, then the program evaluate the loops-continuation test
